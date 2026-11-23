@@ -89,7 +89,7 @@ DHCP (Dynamic Host Configuration Protocol) - сетевой протокол, к
 ```bash
 networkctl status <имя_интерфейса>
 ```
-![Результат](imagespart_3.4.png)
+![Результат](images/part_3.4.png)
 
 Для задания статичных настроек ip, gw, dns необходиом:
 
@@ -130,7 +130,7 @@ ping -c 4 ya.ru # Проверка DNS
 
 4 — это значение, которое вы передали этому флагу. То есть «отправь ровно 4 пакета и остановись».
 
-![Результат](images/[art_3.8.png)
+![Результат](images/[part_3.8.png)
 
 
 
